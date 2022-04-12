@@ -22,3 +22,4 @@ if (emailFound === true) {
 } else {
     console.log("Impossibile effetuare accesso, email non presente nella lista");
 }
+
